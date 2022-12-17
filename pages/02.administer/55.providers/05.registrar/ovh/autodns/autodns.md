@@ -31,3 +31,5 @@ This page is meant to guide you in obtaining an API key from OVH in order to con
 ![](image://registrar_api_ovh_1.png?resize=800)
 
 3. You will obtain three tokens (an application key, a secret application key, and a consumer key) which should be used in YunoHost's configuration
+
+4. La configuration se fait au niveau votre interface YunoHost depuis un lien de ce type : https://votre-domain.tld/yunohost/admin/#/domains/votre-domaine-parent.tld/config/dns
